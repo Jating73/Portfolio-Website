@@ -22,3 +22,5 @@ $(document).ready(function(){
       } // End if
     });
   });
+
+  AOS.init();
