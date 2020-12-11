@@ -32,6 +32,11 @@
     .site-main .about-area .about-title p{
         padding: 0%;
     }
+    
+    li.para ,p.para{
+        color: var(--text-color);
+        font: normal 500  var(--roboto);
+    }
 }
 
 
