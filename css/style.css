@@ -355,7 +355,7 @@ footer .footer-area .social h5{
 footer.footer-area .social a > i{
     font-size:22px;
     padding: 2rem;
-    color: var(--border-color);
+    color: #247fb4;
 }
 
 footer.footer-area .social a:hover > i{
